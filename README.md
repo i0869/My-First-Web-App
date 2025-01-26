@@ -2,5 +2,5 @@
 This is my first app in laravel
 I am learning
 
-Great thanks to @gp10devhts
+Great thanks to [GP10DevHTS](https://github.com/gp10devhts) 
 
